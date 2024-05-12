@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height=“150” src="https://giffiles.alphacoders.com/221/221866.gif"  />
+<img align="right" height=“100” src="https://giffiles.alphacoders.com/221/221866.gif"  />
 
 ###
 
