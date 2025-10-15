@@ -12,8 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fed29741e2d0fb0ae214a333c69fd9b2e%2Ftenor.gif%3Fitemid%3D17912030&f=1&nofb=1&ipt=158b4cd616f636149309336f36572c1eca04e47aac3cd7986c812ae4e03718e8&ipo=images"  />
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -53,7 +51,7 @@
 ###
 
 <div align="centre">
-  <img height="200" src="![LRP3](https://github.com/user-attachments/assets/28bb9d29-934c-48d7-8475-2b0cf838145d)" />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms4ZXNiZTB2YzN4OWVxZDdnd2w5NzRvNnA2dHpkZWJtZWgwbnB0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QCJlIDkOJDEIctfdzz/giphy.gif" />
 </div>
 
 ###
