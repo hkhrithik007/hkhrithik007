@@ -52,9 +52,8 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="![LRP3](https://github.com/user-attachments/assets/28bb9d29-934c-48d7-8475-2b0cf838145d)
-" />
+<div align="centre">
+  <img height="200" src="![LRP3](https://github.com/user-attachments/assets/28bb9d29-934c-48d7-8475-2b0cf838145d)" />
 </div>
 
 ###
