@@ -12,9 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hkhrithik007.hkhrithik007&"  />
-</div>
+<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fed29741e2d0fb0ae214a333c69fd9b2e%2Ftenor.gif%3Fitemid%3D17912030&f=1&nofb=1&ipt=158b4cd616f636149309336f36572c1eca04e47aac3cd7986c812ae4e03718e8&ipo=images"  />
 
 ###
 
